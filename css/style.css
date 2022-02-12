@@ -1,0 +1,9 @@
+.ttl::before {
+  content: "";
+  background: url(../img/inspiration.svg);
+  background-size: cover;
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}
